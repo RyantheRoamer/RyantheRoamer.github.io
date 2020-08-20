@@ -1,0 +1,13 @@
+/*Reminder: Comments are different in CSS*/
+
+/*The following points to the image which
+adjusts its properties to fit the defined
+parameters for the project.*/
+.responsive-img{
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
